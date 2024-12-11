@@ -21,10 +21,6 @@ Check out the live app here: [Job Finder App](https://job-finder-app-delta.verce
 - **Backend**: NodeJS, ExpressJS
 - **Database**: SQLite
 
-## Screenshots
-
-(Add screenshots of your application here to visually showcase your app.)
-
 ## Installation and Setup
 
 1. Clone the repository:
