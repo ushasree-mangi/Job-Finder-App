@@ -1,4 +1,4 @@
-"# job-finder-app" 
+
 # Job Finder App
 
 A full-stack job searching web application designed and developed to simplify the job hunting process. The design is inspired by the Naukri app, and the app offers features such as user registration, login, job search, job filtering, and detailed job item pages.
